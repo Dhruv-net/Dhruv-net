@@ -1,3 +1,17 @@
+<!--   my-icons -->
+<p align="center">
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a> 
+</p>
+
+<!--   my-header-img -->
+![](./src/header_.png)
+<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" ></a>
+
+<!-- My Ticker -->
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hey+there+👋🏻,+I'm+Dhruv;Welcome+to+my+profile)](https://git.io/typing-svg)
+
+
+
 # 💫 About Me:
 "Hello, my name is Dhruv. I am a passionate Python developer with a keen interest in web development.<br><br>While I don't have particular expertise in any specific language, I have been actively expanding my knowledge across different programming languages and technologies. This versatility allows me to adapt to various development environments and explore new tools and frameworks.<br><br>I believe in the importance of continuous learning and personal growth. As I delve deeper into the knowledge, I am eager to acquire new skills and broaden my expertise in developing innovative and efficient solutions.<br><br>I am enthusiastic about collaborating with like-minded professionals and embracing new challenges that enable me to enhance my programming skills further. Together, we can create exciting and impactful projects that push the boundaries of what is possible in the world of Python development."
 
