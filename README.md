@@ -14,9 +14,10 @@
 Hello, my name is Dhruv. I am a passionate Python developer with a keen interest in web development.<br><br>While I don't have particular expertise in any specific language, I have been actively expanding my knowledge across different programming languages and technologies. This versatility allows me to adapt to various development environments and explore new tools and frameworks.<br><br>I believe in the importance of continuous learning and personal growth. As I delve deeper into the knowledge, I am eager to acquire new skills and broaden my expertise in developing innovative and efficient solutions.<br><br>I am enthusiastic about collaborating with like-minded professionals and embracing new challenges that enable me to enhance my programming skills further. Together, we can create exciting and impactful projects that push the boundaries of what is possible in the world of Python development.
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dhruv-net&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Dhruv-net&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-net&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Dhruv-net's Stats](https://github-readme-stats.vercel.app/api?username=Dhruv-net&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Dhruv-net's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dhruv-net&theme=vue-dark&hide_border=true)
+![Dhruv-net's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv-net&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/dhruvfoodie3095?mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Dhruuvvvv.18) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-soni-005816205/) 
